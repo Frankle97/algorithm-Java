@@ -6,3 +6,4 @@
  * LeetCode - (www.leetcode.com)
 
 ### List of problems
+* [Find Day Of Week](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/find_day_of_week)
