@@ -5,8 +5,8 @@ public class FindMiddleWord {
 	String answer = "";
     
 	int length = s.length();
-	if (length % 2==0) {
-		answer += s.charAt((length/2)-1);
+	if (length % 2 == 0) {
+		answer += s.charAt((length/2) -1);
 		answer += s.charAt(length/2);
 	} else {
 		answer += s.charAt(length/2);
