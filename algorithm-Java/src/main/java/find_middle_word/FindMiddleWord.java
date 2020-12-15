@@ -2,7 +2,6 @@ package find_middle_word;
 
 public class FindMiddleWord {
 	public String solution(String s) {
-    // 테스트ss
 	String answer = "";
     
 	int length = s.length();
