@@ -6,5 +6,6 @@
  * LeetCode - (www.leetcode.com)
 
 ### List of problems
+* [Division Of Array](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/division_of_array)
 * [Find Day Of Week](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/find_day_of_week)
 * [Find Middle Word](https://github.com/Frankle97/algorithm-Java/blob/master/algorithm-Java/src/main/java/find_middle_word/FindMiddleWord.java)
