@@ -1,7 +1,7 @@
 package programmers_check_level;
 
 public class Level_One_First {
-	public String solution(int a, int b) {
+    public String solution(int a, int b) {
     String answer = "";
     int days = 0;
     int[] month = {0,31,29,31,30,31,30,31,31,30,31,30,31};
