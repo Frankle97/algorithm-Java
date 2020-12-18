@@ -1,6 +1,6 @@
-package sum_of_between_two_integer;
+package sum_between_of_two_integer;
 
-public class SumOfBetweenTwoInteger {
+public class SumBetweenOfTwoInteger {
 	public long solution(int a, int b) {
 	long answer = 0;
 	if (a < b) {
