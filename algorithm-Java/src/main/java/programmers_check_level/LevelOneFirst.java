@@ -1,6 +1,6 @@
 package programmers_check_level;
 
-public class Level_One_First {
+public class LevelOneFirst {
     public String solution(int a, int b) {
     String answer = "";
     int days = 0;
