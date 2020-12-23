@@ -16,5 +16,6 @@
 * [프로그래머스 Level I - 문자열 다루기 기본](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/basic_of_string)
 * [프로그래머스 Level I - 서울에서 김서방 찾기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/find_string_index)
 * [프로그래머스 Level I - 수박수박수박수박수박수?](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/repeat_n_string)
+* [프로그래머스 Level I - 문자열을 정수로 바꾸기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/convert_string_to_number)
 * [프로그래머스 Level I - 지갑 금액 세기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/withdraw_my_wallet)
 
