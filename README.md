@@ -1,6 +1,6 @@
 ## algorithm-Java
 내가 해결한 알고리즘 문제들을 기록하기 위해 생성한 저장소입니다.
-* 문제 제공 사이트
+
  * 프로그래머스(Programmers) - (www.programmers.co.kr)
  * Baekjoon Online Judge - (www.cmicpc.net)
  * LeetCode - (www.leetcode.com)
@@ -15,5 +15,6 @@
 * [프로그래머스 Level I - 문자열 내림차순으로 배치하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/string_sort_desc)
 * [프로그래머스 Level I - 문자열 다루기 기본](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/basic_of_string)
 * [프로그래머스 Level I - 서울에서 김서방 찾기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/find_string_index)
+* [프로그래머스 Level I - 수박수박수박수박수박수?](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/repeat_n_string)
 * [프로그래머스 Level I - 지갑 금액 세기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/withdraw_my_wallet)
 
