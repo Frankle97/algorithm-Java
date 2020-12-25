@@ -7,6 +7,7 @@
 
 ### List of problems
 * [프로그래머스 Level I - 스킬 체크](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/programmers_check_level)
+* [프로그래머스 Level I - 지갑 금액 세기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/withdraw_my_wallet)
 * [프로그래머스 Level I - 나누어 떨어지는 숫자 배열](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/division_of_array)
 * [프로그래머스 Level I - 2016년](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/find_day_of_week)
 * [프로그래머스 Level I - 가운데 글자 가져오기](https://github.com/Frankle97/algorithm-Java/blob/master/algorithm-Java/src/main/java/find_middle_word)
@@ -17,5 +18,5 @@
 * [프로그래머스 Level I - 서울에서 김서방 찾기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/find_string_index)
 * [프로그래머스 Level I - 수박수박수박수박수박수?](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/repeat_n_string)
 * [프로그래머스 Level I - 문자열을 정수로 바꾸기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/convert_string_to_number)
-* [프로그래머스 Level I - 지갑 금액 세기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/withdraw_my_wallet)
+* [프로그래머스 Level I - 자릿수 더하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/digits_plus)
 
