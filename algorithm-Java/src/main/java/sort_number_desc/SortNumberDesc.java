@@ -11,15 +11,15 @@ n	return
  */
 public class SortNumberDesc {
 	public long solution(long n) {
-		String tmp = ""+n;
+		String tmp = "" + n;
 		int[] amt = new int[tmp.length()];
-		for (int i=0; i<tmp.length(); i++) {
-			String tp = ""+tmp.charAt(i);
+		for (int i = 0; i < tmp.length(); i++) {
+			String tp = "" + tmp.charAt(i);
 			amt[i] = Integer.parseInt(tp);
 		}
 		int t = 0;
-		for (int i=0; i<amt.length; i++) {
-			for (int j=0; j<amt.length-1; j++) {
+		for (int i = 0; i < amt.length; i++) {
+			for (int j = 0; j < amt.length-1; j++) {
 				if (amt[j] < amt[j+1]) {
 					t = amt[j];
 					amt[j] = amt[j+1];
@@ -29,10 +29,10 @@ public class SortNumberDesc {
 		}
 		long answer = 0;
 		String tt = "";
-		for (int i=0; i<amt.length; i++) {
+		for (int i=0; i < amt.length; i++) {
 			tt += amt[i];
 		}
 		answer = Long.parseLong(tt);
-	        return answer;
+	    return answer;
 	    }
 }
