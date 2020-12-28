@@ -21,3 +21,4 @@
 * [프로그래머스 Level I - 자릿수 더하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/digits_plus)
 * [프로그래머스 Level I - 자연수 뒤집어 배열로 만들기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/number_reverse_array)
 * [프로그래머스 Level I - 정수 내림차순으로 배치하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/sort_number_desc)
+* [프로그래머스 Level I - 짝수와 홀수](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/even_or_odd)
