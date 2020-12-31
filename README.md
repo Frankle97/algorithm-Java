@@ -1,5 +1,5 @@
 ## algorithm-Java
-내가 해결한 알고리즘 문제들을 기록하기 위해 생성한 저장소입니다.
+해결한 알고리즘 문제들을 기록하기 위해 생성한 저장소입니다.
 
  * 프로그래머스(Programmers) - (www.programmers.co.kr)
  * Baekjoon Online Judge - (www.cmicpc.net)
@@ -24,3 +24,4 @@
 * [프로그래머스 Level I - 짝수와 홀수](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/even_or_odd)
 * [프로그래머스 Level I - 평균 구하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/calculate_avg)
 * [프로그래머스 Level I - 핸드폰 번호 가리기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/hide_phonenumber)
+* [프로그래머스 Level I - 행렬의 덧셈](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/sum_of_matrix)
