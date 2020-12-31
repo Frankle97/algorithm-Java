@@ -25,3 +25,4 @@
 * [프로그래머스 Level I - 평균 구하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/calculate_avg)
 * [프로그래머스 Level I - 핸드폰 번호 가리기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/hide_phonenumber)
 * [프로그래머스 Level I - 행렬의 덧셈](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/sum_of_matrix)
+* [프로그래머스 Level I - x만큼 간격이 있는 n개의 숫자](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/count_interval_number)
