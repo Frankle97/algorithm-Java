@@ -6,7 +6,7 @@
  * LeetCode - (www.leetcode.com)
 
 ### List of problems
-## [프로그래머스](https://programmers.co.kr/)
+## 프로그래머스
 * [프로그래머스 - 스킬 체크-Level I](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/programmers_check_level)
 * [지갑 금액 세기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/withdraw_my_wallet)
 * [나누어 떨어지는 숫자 배열](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/division_of_array)
@@ -29,5 +29,5 @@
 * [x만큼 간격이 있는 n개의 숫자](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/count_interval_number)
 * [직사각형 별찍기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/draw_rectangular_star)
 
-## [BAEKJOON Online Judge](https://www.acmicpc.net/)
+## BAEKJOON Online Judge
 * [Coin](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin)
