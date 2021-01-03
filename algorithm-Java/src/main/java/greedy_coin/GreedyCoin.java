@@ -18,7 +18,7 @@ https://www.acmicpc.net/problem/11047
 출력
 첫째 줄에 K원을 만드는데 필요한 동전 개수의 최솟값을 출력한다.
  */
-public class Greedy_Coin {
+public class GreedyCoin {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
