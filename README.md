@@ -30,4 +30,5 @@
 * [직사각형 별찍기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/draw_rectangular_star)
 
 ## BAEKJOON Online Judge
-* [Coin](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin)
+* [Greedy - Coin](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin)
+* [Greedy - ATM](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_atm)
