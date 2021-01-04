@@ -19,7 +19,7 @@
 * [서울에서 김서방 찾기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/find_string_index/FindStringIndex.java)
 * [수박수박수박수박수박수?](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/repeat_n_string/RepeatNString.java)
 * [문자열을 정수로 바꾸기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/convert_string_to_number/ConvertStringToNumber.java)
-* [자릿수 더하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/digits_plus/DigitsPlus.java)
+* [자릿수 더하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/digits_plus/DigitPlus.java)
 * [자연수 뒤집어 배열로 만들기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/number_reverse_array/NumberReverseArray.java)
 * [정수 내림차순으로 배치하기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/sort_number_desc/SortNumberDesc.java)
 * [짝수와 홀수](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/even_or_odd/EvenOrOdd.java)
