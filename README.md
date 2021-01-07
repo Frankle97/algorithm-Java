@@ -30,8 +30,8 @@
 * [직사각형 별찍기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/draw_rectangular_star/DrawRectangularStar.java)
 
 ## BAEKJOON Online Judge
-* [동전 0 - 11047](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin/GreedyCoin.java)
-* [ATM - 11399](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_atm/GreedyAtm.java)
-* [거스름돈 - 5585](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/greedy_change/GreedyChange.java)
-* [설탕 배달 - 2839](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/greedy_sugar_delivery/GreedySugarDelivery.java)
-* [숫자의 개수 - 2577](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/count_of_number/CountOfNumber.java)
+* [동전 0](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin/GreedyCoin.java)
+* [ATM](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_atm/GreedyAtm.java)
+* [거스름돈](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/greedy_change/GreedyChange.java)
+* [설탕 배달](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/greedy_sugar_delivery/GreedySugarDelivery.java)
+* [숫자의 개수](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/count_of_number/CountOfNumber.java)
