@@ -30,6 +30,7 @@
 * [직사각형 별찍기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/draw_rectangular_star/DrawRectangularStar.java)
 
 ## BAEKJOON Online Judge
+* [별 찍기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/draw_stars)
 * [동전 0](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin/GreedyCoin.java)
 * [ATM](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_atm/GreedyAtm.java)
 * [거스름돈](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/greedy_change/GreedyChange.java)
