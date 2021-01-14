@@ -14,7 +14,7 @@ A, B, C가 주어졌을 때, 손익분기점을 구하는 프로그램을 작성
  */
 public class BreakEvenPoint {
 	public int solution(int A, int B, int C) {
-		if (B>=C) {
+		if (B >= C) {
 			return -1;
 		} else {
 			return A/(C-B)+1;
