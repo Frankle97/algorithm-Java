@@ -31,7 +31,7 @@
 
 ## BAEKJOON Online Judge
 * [별 찍기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/draw_stars)
-* [동전0](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin/GreedyCoin.java)
+* [동전 0](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin/GreedyCoin.java)
 * [ATM](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_atm/GreedyAtm.java)
 * [거스름돈](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/greedy_change/GreedyChange.java)
 * [설탕 배달](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/greedy_sugar_delivery/GreedySugarDelivery.java)
