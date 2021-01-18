@@ -37,3 +37,4 @@
 * [설탕 배달](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/greedy_sugar_delivery/GreedySugarDelivery.java)
 * [숫자의 개수](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/count_of_number/CountOfNumber.java)
 * [손익분기점](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/break_even_point/BreakEvenPoint.java)
+* [숫자의 합](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/sum_of_number/SumOfNumber.java)
