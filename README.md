@@ -5,8 +5,8 @@
  * Baekjoon Online Judge - (www.cmicpc.net)
  * LeetCode - (www.leetcode.com)
 
-### List of problems
-## 프로그래머스
+## List of problems
+### 프로그래머스
 * [스킬 체크 - Level I](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/programmers_check_level)
 * [지갑 금액 세기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/withdraw_my_wallet/WithdrawMyWallet.java)
 * [나누어 떨어지는 숫자 배열](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/division_of_array/DivisionOfArray.java)
@@ -29,7 +29,7 @@
 * [x만큼 간격이 있는 n개의 숫자](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/count_interval_number/CountIntervalNumber.java)
 * [직사각형 별찍기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/draw_rectangular_star/DrawRectangularStar.java)
 
-## BAEKJOON Online Judge
+### BAEKJOON Online Judge
 * [별 찍기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/draw_stars)
 * [동전 0](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_coin/GreedyCoin.java)
 * [ATM](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/greedy_atm/GreedyAtm.java)
