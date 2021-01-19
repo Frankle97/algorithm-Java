@@ -1,4 +1,4 @@
-# 📖 algorithm-java
+## 📖 algorithm-java
 해결한 알고리즘 문제들을 기록하기 위해 생성한 저장소입니다.
 
  * 프로그래머스(Programmers) - (www.programmers.co.kr)
