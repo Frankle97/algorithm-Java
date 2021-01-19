@@ -1,10 +1,11 @@
+# 📖 algorithm-java
 해결한 알고리즘 문제들을 기록하기 위해 생성한 저장소입니다.
 
  * 프로그래머스(Programmers) - (www.programmers.co.kr)
  * Baekjoon Online Judge - (www.cmicpc.net)
  * LeetCode - (www.leetcode.com)
 
-## List of problems
+## 🏳️ List of problems
 ### 프로그래머스
 * [스킬 체크 - Level I](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/programmers_check_level)
 * [지갑 금액 세기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/withdraw_my_wallet/WithdrawMyWallet.java)
