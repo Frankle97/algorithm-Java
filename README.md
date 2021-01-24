@@ -8,7 +8,7 @@
 
 
 ## 🏳️ List of problems
-### 프로그래머스
+### Programmers
 * [스킬 체크 - Level I](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/programmers_check_level)
 * [지갑 금액 세기](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/withdraw_my_wallet/WithdrawMyWallet.java)
 * [나누어 떨어지는 숫자 배열](https://github.com/Frankle97/algorithm-Java/tree/master/algorithm-Java/src/main/java/division_of_array/DivisionOfArray.java)
