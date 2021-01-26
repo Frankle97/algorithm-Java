@@ -44,3 +44,4 @@
 * [알파벳 찾기](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/find_to_alphabet/FindToAlphabet.java)
 * [팩토리얼](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/factorial/Factorial.java)
 * [피보나치 수 5](https://github.com/Frankle97/algorithm-java/tree/master/algorithm-Java/src/main/java/recursion_fibonacci_number/RecursionFibonacciNumber.java)
+* [더하기 사이클](https://github.com/Frankle97/algorithm-java/blob/master/algorithm-Java/src/main/java/plus_cycle/PlusCycle.java)
